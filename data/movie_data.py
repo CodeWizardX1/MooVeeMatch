@@ -8,7 +8,7 @@ movies_by_mood = {
         ("Amélie", 2001, "A whimsical and heartwarming French classic"),
         ("Soul", 2020, "An inspiring animated story about life's purpose")
     ],
-    "dark": [
+    "uark": [
         ("Se7en", 1995, "A gritty thriller about a serial killer"),
         ("No Country for Old Men", 2007, "A tense, suspenseful crime drama"),
         ("The Dark Knight", 2008, "A darker take on the Batman legend")
