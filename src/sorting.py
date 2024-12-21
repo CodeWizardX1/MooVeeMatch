@@ -1,3 +1,0 @@
-"""
-Contains sorting algorithms
-"""

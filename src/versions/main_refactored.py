@@ -1,5 +1,3 @@
-"""Alternative versions available in the src/versions/ directory"""
-
 from data.movie_data import movies_by_mood
 
 

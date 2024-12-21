@@ -1,3 +1,0 @@
-"""
-Contains searching algorithms
-"""
